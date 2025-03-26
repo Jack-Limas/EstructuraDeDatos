@@ -1,3 +1,5 @@
+//Estoy usando TypeScript, React y Tailwind CSS en un proyecto con Next.js. Uso useState para manejar estados y una lista doblemente enlazada para las canciones. Las dependencias clave son React, Tailwind y TypeScript, junto con herramientas como ESLint y Prettier. Mi estructura tiene componentes como Player, Playlist y Controls, además de archivos estáticos
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
